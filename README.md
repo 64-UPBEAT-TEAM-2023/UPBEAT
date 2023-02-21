@@ -5,6 +5,7 @@
   Nuttadon -> evaluator and document fix
   Ixac -> interface design
   BezTTTT -> testing fix and MVC
+  
 2nd meeting -> 21/2/66 21:55 PM
   Nuttadon -> parser and evaluator changes
   Ixac -> display and game interface
